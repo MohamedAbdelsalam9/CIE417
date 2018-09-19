@@ -1,2 +1,2 @@
 # CIE417
-CIE 417 (Machine Learning), Zewail university of Science and Technology
+Machine Learning CIE 417 (Fall 2018), Zewail university of Science and Technology
